@@ -3,7 +3,7 @@ from limite import verify_limite, result
 
 def f(x: float) -> float:
     """
-    Função linear que tende ao limite L = 4 quando x se aproxima de a = 2.
+    f(x) = eq
     """
     return 2 * x + 3
 
